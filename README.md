@@ -1,4 +1,4 @@
-# 🔐 Secure Console Login System (Kotlin)
+# 🔐 Secure Console Login Auth (Kotlin)
 
 This is a simple, file-based user login system built in **Kotlin** that runs in the **console**. It includes features like user registration, login with password hashing and salting, password recovery simulation, password change, account deletion, and logging with timestamps.
 
